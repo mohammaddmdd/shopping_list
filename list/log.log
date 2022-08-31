@@ -1,0 +1,68 @@
+2022-08-30 03:47:33,741 :DEBUG->root:
+apple added.
+2022-08-30 03:47:33,741 :DEBUG->root:
+egg added.
+2022-08-30 03:47:33,741 :DEBUG->root:
+carrot added.
+2022-08-30 03:47:33,741 :DEBUG->root:
+t-shirts added.
+2022-08-30 03:47:33,741 :DEBUG->root:
+socks added.
+2022-08-30 03:47:33,741 :DEBUG->root:
+socks is already in the list.
+2022-08-30 03:47:33,741 :DEBUG->root:
+    product  price
+0     apple     50
+1       egg     55
+2    carrot     65
+3      ----   ----
+4  t-shirts     25
+5     socks     35
+2022-08-30 04:16:46,884 :DEBUG->root:
+apple added.
+2022-08-30 04:16:46,884 :DEBUG->root:
+egg added.
+2022-08-30 04:16:46,892 :DEBUG->root:
+carrot added.
+2022-08-30 04:16:46,892 :DEBUG->root:
+t-shirts added.
+2022-08-30 04:16:46,892 :DEBUG->root:
+socks added.
+2022-08-30 04:18:43,508 :DEBUG->root:
+apple added.
+2022-08-30 04:18:43,508 :DEBUG->root:
+egg added.
+2022-08-30 04:18:43,508 :DEBUG->root:
+carrot added.
+2022-08-30 04:18:43,516 :DEBUG->root:
+t-shirts added.
+2022-08-30 04:18:43,516 :DEBUG->root:
+socks added.
+2022-08-30 04:19:29,800 :DEBUG->root:
+apple added.
+2022-08-30 04:19:29,800 :DEBUG->root:
+egg added.
+2022-08-30 04:19:29,800 :DEBUG->root:
+carrot added.
+2022-08-30 04:19:29,800 :DEBUG->root:
+t-shirts added.
+2022-08-30 04:19:29,800 :DEBUG->root:
+socks added.
+2022-08-30 04:21:10,579 :DEBUG->root:
+apple added.
+2022-08-30 04:21:10,579 :DEBUG->root:
+egg added.
+2022-08-30 04:21:10,579 :DEBUG->root:
+carrot added.
+2022-08-30 04:21:10,579 :DEBUG->root:
+t-shirts added.
+2022-08-30 04:21:10,579 :DEBUG->root:
+socks added.
+2022-08-30 04:21:10,595 :DEBUG->root:
+    product  price
+0     apple     50
+1       egg     55
+2    carrot     65
+3      ----   ----
+4  t-shirts     25
+5     socks     35
